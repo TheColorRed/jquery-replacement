@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "system",
+        "removeComments": true,
+        "outFile": "dist/thing.js"
+    },
+    "compileOnSave": true,
+    "files": [
+        "src/core/Dom.ts",
+        "src/main.ts"
+    ]
+}
